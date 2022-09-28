@@ -184,6 +184,23 @@ a {
 
 
 
+@media screen and (max-width: 391px) {
+  .wrapper {
+    width: 390px;
+  }
+
+  .container {
+    width: 360px;
+  }
+
+  .content__block{
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
+}
+
 
 @media screen and (max-width: 320px) {
   .wrapper {
